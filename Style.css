@@ -9,7 +9,7 @@ body{
 .navbar{
     color: aliceblue;
     position: fixed;
-    width: 1400px;
+    max-width: 1800px;
     margin: auto;
     top: 0;
     right:0;
@@ -233,7 +233,7 @@ background :linear-gradient(to right,#52096e,#1232bd);
 /************************************************/
 
 #contactpagesec{
- width: 1340px;
+max-width: 1800px;
  margin: auto;
 }
 .contactpage{
@@ -398,7 +398,7 @@ margin-left: 30px;
 
 }
  .hero{
-  width: 1340px;
+  max-width: 1800px;;
   margin: auto;
   height: 700px;
   justify-content: center;
@@ -478,7 +478,7 @@ margin-left: 30px;
 }
 
 #sec-ourshop{
-  width: 1200px;
+  max-width: 1200px;
   margin: auto;
 }
 
@@ -672,7 +672,7 @@ margin-left: 30px;
 }
 #prductdetails{
   background-color: rgb(6, 6, 24);
-  width: 1300px;
+  max-width: 1300px;
   margin: auto;
 }
 
@@ -716,7 +716,7 @@ margin-left: 30px;
 }
 
 #lastsectopgames{
-  width: 1300px;
+ max-width: 1300px;
   margin: auto;
 }
 
@@ -1077,7 +1077,7 @@ margin-left: 30px;
 }
 
 .Lasttexthomese{
-  width: 1300px;
+ max-width: 1600px;
   text-align: center;
   border: none;
   justify-content: center;
@@ -1093,7 +1093,7 @@ margin-left: 30px;
 }
 
 .finalphomesec{
-  width: 1340px;
+  max-width: 1800px;
   justify-content: center;
   margin: auto;
   height: 100px;
